@@ -28,7 +28,7 @@
 ## Relevant Courses
 
 - Advanced Python Programming  | Artificial Intelligence | Big Data Analytics
-- Data Analytics and Machine Learning | Data Science |  Data Structure and Algorithms
+- Data Analytics and Machine Learning | Data Science |  Mathematical Foundation of Machine Learning
 - Database Management System | Fundamentals of Cybersecurity | Knowledge Discovery and Data Mining
 
 
