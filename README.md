@@ -35,8 +35,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://x.com/Saumilvtrivedi6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+<p align="center"><p>
+  &nbsp; <a href="https://x.com/Saumilvtrivedi6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/external-link.png" width="50" /></a>
+</p>
 &nbsp; <a href="https://www.linkedin.com/in/saumilvtrivedi0611/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:saumil39@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="50" /></a>
 </p>
