@@ -10,17 +10,17 @@
 - ☕ I believe in the power of a meditation to solve any stress.
 
 ## Relevant Courses
-
-1. **Advanced Python Programming (CE0620)** 
-2. **Artificial Intelligence (IT0701)** 
-3. **Big Data Analytics (IT0602)**
-4. **Data Analytics and Machine Learning (MIS637)**
-6. **Data Science (CE0519)**
-7. **Data Structure and Algorithms (CE0417)** 
-8. **Database Management System (CE0317)** 
-9. **Fundamentals of Cybersecurity (CS573)** 
-10. **Knowledge Discovery and Data Mining (CS513)** 
+                                         
+|--------------------------------------------------------|-|--------------------------------------------------------|
+| Advanced Python Programming                            | | Data Science                                           |
+| Artificial Intelligence                                | | Data Structure and Algorithms                          |
+| Big Data Analytics                                     | | Database Management System )                           |
+| Data Analytics and Machine Learning                    | | Design and Analysis of Algorithms                      |
+| Fundamentals of Cybersecurity                          | | Knowledge Discovery and Data Mining                    |
 """
+
+
+
 
 
 
