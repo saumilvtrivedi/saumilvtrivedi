@@ -31,9 +31,11 @@
 - Data Analytics and Machine Learning | Data Science |  Mathematical Foundation of Machine Learning
 - Database Management System | Fundamentals of Cybersecurity | Knowledge Discovery and Data Mining
 
+# Hi there! 👋
 
 
+## Get in touch
 
-
-
-
+- 📸 Instagram: [@saumilvtrivedi](https://www.instagram.com/saumilvtrivedi/)
+- 🔗 X account: [Saumilvtrivedi6](https://x.com/Saumilvtrivedi6)
+- 📧 Email: [saumil39@outlook.com](mailto:saumil39@outlook.com)
