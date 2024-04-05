@@ -10,8 +10,6 @@
 - ☕ I believe in the power of a meditation to solve any stress.
 
 
-## 🛠 Skills & Technologies
-
 🐍 **Programming Languages**: Python | SQL (Postgres) | R
 🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
 📚 **Data Libraries**: Pandas | NumPy | Matplotlib | ggplot2 | Seaborn
@@ -21,6 +19,16 @@
 🚀 **Methodologies**: SDLC | Agile | Waterfall
 💡 **Other Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
 
+
+
+- 🐍 **Programming Languages**: Python | SQL (Postgres) | R
+- **Developer Tools**: VS Code, Visual Studio, PyCharm, Anaconda, Jupyter Notebook
+- **Data Libraries**: Pandas, NumPy, Matplotlib, ggplot2, Seaborn
+- **Visualization**: Tableau, PowerBI, MS Excel
+- **Operating Systems**: Windows, Linux
+- **Databases**: MYSQL, PostgreSQL
+- **Methodologies**: SDLC, Agile, Waterfall
+- **Other Skills**: Data Cleaning, Data Wrangling, Critical thinking, Communication skills, Problem-Solving
 
 
 
