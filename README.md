@@ -27,8 +27,7 @@
 
 ## Relevant Courses
 
-1. Advanced Python Programming
-2. Artificial Intelligence
+- Advanced Python Programming               - Artificial Intelligence
 3. Big Data Analytics
 4. Data Analytics and Machine Learning
 5. Data Science
