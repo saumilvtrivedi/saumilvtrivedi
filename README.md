@@ -9,6 +9,9 @@
 - ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
 - ☕ I believe in the power of a meditation to solve any stress.
 
+
+## My Skills
+
 - 🐍 **Programming Languages**: Python | SQL (Postgres) | R
 - 🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
 - 📚 **Data Libraries**: Pandas | NumPy | Matplotlib | ggplot2 | Seaborn
