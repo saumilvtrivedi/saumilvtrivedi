@@ -27,14 +27,9 @@
 
 ## Relevant Courses
 
-- Advanced Python Programming               - Artificial Intelligence
-3. Big Data Analytics
-4. Data Analytics and Machine Learning
-5. Data Science
-6. Data Structure and Algorithms
-7. Database Management System
-8. Fundamentals of Cybersecurity
-9. Knowledge Discovery and Data Mining
+- Advanced Python Programming  | Artificial Intelligence | Big Data Analytics
+- Data Analytics and Machine Learning | Data Science |  Data Structure and Algorithms
+- Database Management System | Fundamentals of Cybersecurity | Knowledge Discovery and Data Mining
 
 
 
