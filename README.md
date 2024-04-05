@@ -7,7 +7,8 @@
 - 🤔 My interests lie in exploring new technologies and devising software solutions and quick hacks. My projects and experiences reflect a keen interest in data analysis, machine learning, and web development.
 - 💼 Past roles include a Web Development Intern at Infolabz IT Services, Ahmedabad, India, where I developed an IoT health monitoring system.
 - ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
-- ☕ I believe in the power of a meditation to solve any stress.
+- ☕ I believe in the power of a meditation to solve any stress.![image](https://github.com/saumilvtrivedi/saumilvtrivedi/assets/120085664/ff2a9ded-328f-4c69-872d-66ac7a4ad015)
+
 
 ## Relevant Courses
 
