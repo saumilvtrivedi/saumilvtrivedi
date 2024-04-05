@@ -8,3 +8,19 @@
 - 💼 Past roles include a Web Development Intern at Infolabz IT Services, Ahmedabad, India, where I developed an IoT health monitoring system.
 - ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
 - ☕ I believe in the power of a meditation to solve any stress.
+
+## Relevant Courses
+
+1. **Advanced Python Programming (CE0620)** 
+2. **Artificial Intelligence (IT0701)** 
+3. **Big Data Analytics (IT0602)**
+4. **Data Analytics and Machine Learning (MIS637)**
+6. **Data Science (CE0519)**
+7. **Data Structure and Algorithms (CE0417)** 
+8. **Database Management System (CE0317)** 
+9. **Design and Analysis of Algorithms (CE0516)** 
+10. **Knowledge Discovery and Data Mining (CS513)** 
+"""
+
+
+
