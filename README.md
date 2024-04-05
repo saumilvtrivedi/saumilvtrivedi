@@ -3,12 +3,34 @@
 👨🏻‍💻 **About Me**
 - 💼 I worked as a Graduate Student Assistant at Stevens Institute of Technology, Hoboken, NJ, where I designed an interactive dashboard to search and visualize admission status details using Argos Software, among other contributions.
 - 🔭 Completed Master of Science in Computer Science at Stevens Institute of Technology in December 2023. I'm honored to have received the Provost’s Master’s Fellowship.
-- 🎓 Holds a Bachelor of Technology in Information Technology from Indus Institute of Technology, Ahmedabad, India.![image](https://github.com/saumilvtrivedi/saumilvtrivedi/assets/120085664/af35ad79-5eef-46f5-a444-8f33a38057d8)
-
+- 🎓 Holds a Bachelor of Technology in Information Technology from Indus Institute of Technology, Ahmedabad, India.
 - 🤔 My interests lie in exploring new technologies and devising software solutions and quick hacks. My projects and experiences reflect a keen interest in data analysis, machine learning, and web development.
 - 💼 Past roles include a Web Development Intern at Infolabz IT Services, Ahmedabad, India, where I developed an IoT health monitoring system.
 - ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
 - ☕ I believe in the power of a meditation to solve any stress.
+
+
+## 🛠 Technical Skills
+
+- **Programming Languages:** Python, SQL (Postgres), R
+- **Methodologies:** SDLC (Software Development Life Cycle), Agile, Waterfall
+- **Developer Tools:** VS Code, Visual Studio, PyCharm, Anaconda, MS Office, Jupyter Notebook
+- **Libraries:** Pandas, NumPy, Matplotlib, ggplot2, Seaborn
+- **Visualization Tools:** Tableau, PowerBI, MS Excel
+- **Operating Systems:** Windows, Linux
+- **Databases:** MYSQL, PostgreSQL
+
+## 💡 Other Skills
+
+- Data Cleaning
+- Data Wrangling
+- Critical Thinking
+- Communication Skills
+- Problem-Solving
+
+Leveraging these skills, I aim to bring valuable insights and innovations to my future projects and collaborations.
+"""
+
 
 
 ## Relevant Courses
