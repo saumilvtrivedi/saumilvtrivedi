@@ -10,27 +10,32 @@
 - ☕ I believe in the power of a meditation to solve any stress.
 
 
+# Technical Skills and Expertise
+
 ## 🛠 Technical Skills
+- **Programming Languages**: Python, SQL (Postgres), R
 
-- **Programming Languages:** Python, SQL (Postgres), R
-- **Methodologies:** SDLC (Software Development Life Cycle), Agile, Waterfall
-- **Developer Tools:** VS Code, Visual Studio, PyCharm, Anaconda, MS Office, Jupyter Notebook
-- **Libraries:** Pandas, NumPy, Matplotlib, ggplot2, Seaborn
-- **Visualization Tools:** Tableau, PowerBI, MS Excel
-- **Operating Systems:** Windows, Linux
-- **Databases:** MYSQL, PostgreSQL
+## 📘 Methodologies
+- SDLC, Agile, Waterfall
 
-## 💡 Other Skills
+## 💻 Developer Tools
+- VS Code, Visual Studio, PyCharm, Anaconda, MS Office, Jupyter Notebook
 
-- Data Cleaning
-- Data Wrangling
-- Critical Thinking
-- Communication Skills
-- Problem-Solving
+## 📚 Libraries
+- Pandas, NumPy, Matplotlib, ggplot2, Seaborn
 
-Leveraging these skills, I aim to bring valuable insights and innovations to my future projects and collaborations.
+## 📊 Visualization Tools
+- Tableau, PowerBI, MS Excel
+
+## 💾 Operating Systems
+- Windows, Linux
+
+## 🗄 Databases
+- MYSQL, PostgreSQL
+
+## 🌟 Other Skills
+- Data Cleaning, Data Wrangling, Critical Thinking, Communication Skills, Problem-Solving
 """
-
 
 
 ## Relevant Courses
