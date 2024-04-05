@@ -11,7 +11,7 @@
 
 
 #🐍 **Programming Languages**: Python | SQL (Postgres) | R
-🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
+#🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
 📚 **Data Libraries**: Pandas | NumPy | Matplotlib | ggplot2 | Seaborn
 🎨 **Visualization**: Tableau | PowerBI | MS Excel
 🖥 **Operating Systems**: Windows | Linux
