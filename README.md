@@ -20,7 +20,6 @@
 7. Database Management System
 8. Fundamentals of Cybersecurity
 9. Knowledge Discovery and Data Mining
-"""
 
 
 
