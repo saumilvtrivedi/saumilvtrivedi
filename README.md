@@ -9,38 +9,15 @@
 - ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
 - ☕ I believe in the power of a meditation to solve any stress.
 
+- 🐍 **Programming Languages**: Python | SQL (Postgres) | R
+- 🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
+- 📚 **Data Libraries**: Pandas | NumPy | Matplotlib | ggplot2 | Seaborn
+- 🎨 **Visualization**: Tableau | PowerBI | MS Excel
+- 🖥 **Operating Systems**: Windows | Linux
+- 💾 **Databases**: MYSQL | PostgreSQL
+- 🚀 **Methodologies**: SDLC | Agile | Waterfall
+- 💡 **Other Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
 
-# 🚀 My Technical Universe 🚀
-
-Let's dive into the constellation of my skills, where technology meets creativity!
-
-## 💫 Programming Languages
-- 🐍 **Python** | 🗃️ **SQL (Postgres)** | 📊 **R**
-
-## 🔧 Developer's Toolbox
-- 📝 **VS Code**, 🖥️ **Visual Studio**, 🐍 **PyCharm**
-- 🧪 **Anaconda**, 📓 **Jupyter Notebook**
-
-## 📚 Data Libraries Galore
-- 🐼 **Pandas**, 🔢 **NumPy**, 📈 **Matplotlib**
-- 🖌️ **ggplot2**, 🌊 **Seaborn**
-
-## 🎨 Art of Visualization
-- 📊 **Tableau**, 🔍 **PowerBI**, 📉 **MS Excel**
-
-## 🖥️ Operating Systems
-- 🪟 **Windows**, 🐧 **Linux**
-
-## 💾 Database Mastery
-- 📦 **MYSQL**, 🐘 **PostgreSQL**
-
-## 🛠️ Methodology Mantra
-- 🔄 **SDLC**, 🏃‍♂️ **Agile**, 🌊 **Waterfall**
-
-## ✨ Other Magical Skills
-- 🧹 **Data Cleaning**, 🌪️ **Data Wrangling**
-- 🤔 **Critical Thinking**, 🗣️ **Communication Skills**
-- 🧩 **Problem-Solving**
 
 
 
