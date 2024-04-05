@@ -10,10 +10,6 @@
 - ☕ I believe in the power of a meditation to solve any stress.
 
 
-# Enhanced Python script to create a README.md file with skills in a unique and creative format
-
-# Define the enhanced content for the README.md file
-enhanced_readme_skills_content = """
 # 🚀 My Technical Universe 🚀
 
 Let's dive into the constellation of my skills, where technology meets creativity!
