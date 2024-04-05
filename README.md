@@ -18,7 +18,7 @@
 6. **Data Science (CE0519)**
 7. **Data Structure and Algorithms (CE0417)** 
 8. **Database Management System (CE0317)** 
-9. **Fundamentals of Cybersecurity (CE0516)** 
+9. **Fundamentals of Cybersecurity (CS573)** 
 10. **Knowledge Discovery and Data Mining (CS513)** 
 """
 
