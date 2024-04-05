@@ -31,11 +31,14 @@
 - Data Analytics and Machine Learning | Data Science |  Mathematical Foundation of Machine Learning
 - Database Management System | Fundamentals of Cybersecurity | Knowledge Discovery and Data Mining
 
-# Hi there! 👋
 
 
-## Get in touch
+<h3> 🤝🏻 Connect with Me </h3>
 
-- 📸 Instagram: [@saumilvtrivedi](https://www.instagram.com/saumilvtrivedi/)
-- 🔗 X account: [Saumilvtrivedi6](https://x.com/Saumilvtrivedi6)
-- 📧 Email: [saumil39@outlook.com](mailto:saumil39@outlook.com)
+<p align="center">
+&nbsp; <a href="https://x.com/Saumilvtrivedi6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/saumilvtrivedi0611/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:saumil39@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Vaishvik](https://github.com/vaishvik24)
