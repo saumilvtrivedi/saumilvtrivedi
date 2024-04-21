@@ -12,14 +12,10 @@
 
 ## My Skills
 
-- 🐍 **Programming Languages**: Python | SQL (Postgres) | R
-- 🔨 **Developer Tools**: VS Code | Visual Studio | PyCharm | Anaconda | Jupyter Notebook
-- 📚 **Data Libraries**: Pandas | NumPy | Matplotlib | ggplot2 | Seaborn
-- 🎨 **Visualization**: Tableau | PowerBI | MS Excel
-- 🖥 **Operating Systems**: Windows | Linux
-- 💾 **Databases**: MYSQL | PostgreSQL
+- 🐍 **Languages**:Python, R, SQL(MySQL, Postgres), C
+- 🔨 **Technologies/Frameworks**:  Linux | Windows | Keras | Tensorflow | Pytorch | Pandas | Numpy | Seaborn | Scikit-learn | Scipy | Matplotlib | PowerBI | ggplot2 | Tableau | Argos | MS Excel | Hadoop | Hive | Spark
 - 🚀 **Methodologies**: SDLC | Agile | Waterfall
-- 💡 **Other Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
+- 💡 **Soft Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
 
 
 
