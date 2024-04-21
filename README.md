@@ -13,7 +13,7 @@
 ## My Skills
 
 - 🐍 **Languages**:Python, R, SQL(MySQL, Postgres), C
-- 🔨 **Technologies/Frameworks**:  Linux | Windows | Keras | Tensorflow | Pytorch | Pandas | Numpy | Seaborn | Scikit-learn | Scipy | Matplotlib |                               PowerBI | ggplot2 | Tableau | Argos | MS Excel | Hadoop | Hive | Spark
+- 🔨 **Technologies/Frameworks**:  Linux | Windows | Keras | Tensorflow | Pytorch | Pandas | Numpy | Seaborn | Scikit-learn | Scipy | Matplotlib | **                                        **PowerBI | ggplot2 | Tableau | Argos | MS Excel | Hadoop | Hive | Spark
 - 🚀 **Methodologies**: SDLC | Agile | Waterfall
 - 💡 **Soft Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
 
