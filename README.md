@@ -26,7 +26,7 @@
 - Advanced Python Programming  | Artificial Intelligence | Big Data Analytics
 - Data Analytics and Machine Learning | Data Science |  Mathematical Foundation of Machine Learning
 - Database Management System | Fundamentals of Cybersecurity | Knowledge Discovery and Data Mining
-- NLP | Deep Learning | Machine learning
+- NLP | Deep Learning | Machine learnin
 
 
 <h3> 🤝🏻 Connect with Me </h3>
