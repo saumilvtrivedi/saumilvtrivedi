@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Saumil
+### Hi there 👋, my name is Saumi
 
 👨🏻‍💻 **About Me**
 - 💼 I worked as a Graduate Student Assistant at Stevens Institute of Technology, Hoboken, NJ, where I designed an interactive dashboard to search and visualize admission status details using Argos Software, among other contributions.
