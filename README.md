@@ -1,21 +1,31 @@
 ### Hi there 👋, my name is Saumil
 
 👨🏻‍💻 **About Me**
-- 💼 I worked as a Graduate Student Assistant at Stevens Institute of Technology, Hoboken, NJ, where I designed an interactive dashboard to search and visualize admission status details using Argos Software, among other contributions.
-- 🔭 Completed Master of Science in Computer Science at Stevens Institute of Technology in December 2023. I'm honored to have received the Provost’s Master’s Fellowship.
-- 🎓 Holds a Bachelor of Technology in Information Technology from Indus Institute of Technology, Ahmedabad, India.
-- 🤔 My interests lie in exploring new technologies and devising software solutions and quick hacks. My projects and experiences reflect a keen interest in data analysis, machine learning, and web development.
-- 💼 Past roles include a Web Development Intern at Infolabz IT Services, Ahmedabad, India, where I developed an IoT health monitoring system.
-- ✍️ As for hobbies and side hustles, I enjoy watching movies and playing sports.
-- ☕ I believe in the power of a meditation to solve any stress.
+- 💼 I currently work as a Data Analyst at Quip Global Inc, where I design and deliver dashboards using Tableau and Power BI, turning data into actionable insights that have driven a 15% increase in engagement.
+- 🔍 I develop and standardize KPIs, build data pipelines with SQL to streamline data integration, and identify data gaps to ensure high-quality reporting.
+- 🎓 Completed my Master of Science in Computer Science at Stevens Institute of Technology, Hoboken, NJ (GPA: 3.5).
+- 🎓 Hold a Bachelor of Technology in Information Technology from Indus Institute of Technology, Ahmedabad, India (GPA: 3.7).
+- 💼 Previously worked as a Graduate Student Assistant at Stevens Institute of Technology, where I automated data integration processes using SQL and Excel VBA, reducing response times by 60%.
+- 🌍 I bring a global perspective, having collaborated with cross-functional teams to drive data-driven decision-making.
+- ✍️ As for hobbies and side hustles, I enjoy watching movies, playing sports, and believe in the power of meditation to solve any stress.
 
 
 ## My Skills
 
 - 🐍 **Languages**:Python, R, SQL(MySQL, Postgres), C
-- 🔨 **Technologies/Frameworks**:  Linux | Windows | Keras | Tensorflow | Pytorch | Pandas | Numpy | Seaborn | Scikit-learn | Scipy | Matplotlib | PowerBI | ggplot2 | Tableau | Argos | MS Excel | Hadoop | Hive | Spark
-- 🚀 **Methodologies**: SDLC | Agile | Waterfall
-- 💡 **Soft Skills**: Data Cleaning | Data Wrangling | Critical thinking | Communication skills | Problem-Solving
+- 🔧 Methodologies: SDLC (Waterfall, Agile, Scrum)
+- 🐍 Programming Languages: Python, R, SQL, SAS
+- 💻 IDEs: Visual Studio Code, PyCharm, Jupyter Notebook
+- 📦 Packages & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, SciPy, ggplot2
+- 🛠️ ETL & Data Preparation Tools: SSIS, Alteryx, Informatica, Databricks, DAX (Data Analysis Expressions)
+- 📊 Data Visualization: Tableau, Power BI, Looker, 
+- 📊 Project Management & Reporting Tools: Jira, Asana, Trello, Smartsheet, Crystal Reports, MicroStrategy
+- 🗄️ Databases: MySQL, SQL Server, PostgreSQL, Snowflake
+- ☁️ Cloud Technologies: AWS (S3, Glue), Google Analytics, Azure, 
+- 🤝 Customer Relationship Management: Salesforce
+- 📑 Microsoft Office: Excel (VBA, Pivot Table, Power Pivot, Macros, VLOOKUP, HLOOKUP), MS Word, MS PowerPoint, MS Visio
+- 🔄 Version Control Tools: Git, GitHub
+- 💡 Other Skills: Data Cleaning, Data Wrangling, Critical Thinking, Root Cause Analysis, Presentation Skills, Problem-Solving, Data Storytelling, Data Integration
 
 
 
