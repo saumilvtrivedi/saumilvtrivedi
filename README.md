@@ -12,21 +12,17 @@
 
 ## My Skills
 
-- 🐍 **Languages**:Python, R, SQL(MySQL, Postgres), C
 - 🔧 Methodologies: SDLC (Waterfall, Agile, Scrum)
 - 🐍 Programming Languages: Python, R, SQL, SAS
-- 💻 IDEs: Visual Studio Code, PyCharm, Jupyter Notebook
 - 📦 Packages & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, SciPy, ggplot2
 - 🛠️ ETL & Data Preparation Tools: SSIS, Alteryx, Informatica, Databricks, DAX (Data Analysis Expressions)
 - 📊 Data Visualization: Tableau, Power BI, Looker, 
 - 📊 Project Management & Reporting Tools: Jira, Asana, Trello, Smartsheet, Crystal Reports, MicroStrategy
 - 🗄️ Databases: MySQL, SQL Server, PostgreSQL, Snowflake
-- ☁️ Cloud Technologies: AWS (S3, Glue), Google Analytics, Azure, 
-- 🤝 Customer Relationship Management: Salesforce
+- ☁️ Cloud Technologies: AWS (S3, Glue), Azure
 - 📑 Microsoft Office: Excel (VBA, Pivot Table, Power Pivot, Macros, VLOOKUP, HLOOKUP), MS Word, MS PowerPoint, MS Visio
 - 🔄 Version Control Tools: Git, GitHub
-- 💡 Other Skills: Data Cleaning, Data Wrangling, Critical Thinking, Root Cause Analysis, Presentation Skills, Problem-Solving, Data Storytelling, Data Integration
-
+- 💬 Ask me about Data Validation Processes, Automated Reporting Systems, Resource Utilization Analysis, Data Pipeline Optimization, Predictive Modeling, ETL Processes, KPI Monitoring, and Advanced Visualization Techniques using Tableau and Power BI
 
 
 
