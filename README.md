@@ -1,22 +1,22 @@
 ### Hi there 👋, my name is Saumil
 
 👨🏻‍💻 **About Me**
-- [cite_start]💼 I currently work as a **Data Analyst at Vanguard Group** [cite: 17, 22] [cite_start]in Malvern, Pennsylvania[cite: 19, 30]. [cite_start]My expertise is in **SQL**, **Python**, and **Amazon Web Services (AWS)** [cite: 17, 22][cite_start], where I'm driving insights and predictive analytics[cite: 17].
-- [cite_start]📈 At Vanguard, I have streamlined dashboards, optimized **SQL queries** by refactoring 11 scripts into 4, and led the migration of Presto data sources to **AWS Athena** to enhance data stability for Sales and Marketing[cite: 24, 31, 32].
-- [cite_start]☁️ I have also developed automated sandbox tables using **SQL** and **AWS SageMaker**, which streamlines data integration into **Tableau** dashboards[cite: 34].
-- [cite_start]🎓 I graduated with a **Master of Science (MS) in Computer Science** from **Stevens Institute of Technology** in December 2023[cite: 21, 75].
-- [cite_start]🎓 I hold a **Bachelor of Technology (BTech) in Information Technology** from **Indus University Ahmedabad**[cite: 21, 77].
-- [cite_start]🌍 I am committed to leveraging my technical skills to foster data-driven decisions and collaborating with cross-functional teams to resolve critical data challenges[cite: 25].
+- 💼 I currently work as a **Data Analyst at Vanguard Group** in Malvern, Pennsylvania. My expertise is in **SQL**, **Python**, and **Amazon Web Services (AWS)**, where I'm driving insights and predictive analytics.
+- 📈 At Vanguard, I have streamlined dashboards, optimized **SQL queries** by refactoring 11 scripts into 4, and led the migration of Presto data sources to **AWS Athena** to enhance data stability for Sales and Marketing.
+- ☁️ I have also developed automated sandbox tables using **SQL** and **AWS SageMaker**, which streamlines data integration into **Tableau** dashboards.
+- 🎓 I graduated with a **Master of Science (MS) in Computer Science** from **Stevens Institute of Technology** in December 2023.
+- 🎓 I hold a **Bachelor of Technology (BTech) in Information Technology** from **Indus University Ahmedabad**.
+- 🌍 I am committed to leveraging my technical skills to foster data-driven decisions and collaborating with cross-functional teams to resolve critical data challenges.
 - ✍️ As for hobbies and side hustles, I enjoy watching movies, playing sports, and believe in the power of meditation to solve any stress.
 
 
 ## My Skills
 
-- [cite_start]💾 **Top Skills**: Decisions Software, SharePoint, AWS SageMaker [cite: 9, 10, 11]
-- [cite_start]🐍 **Programming & Query Languages**: SQL, Python [cite: 17, 56]
-- [cite_start]☁️ **Cloud & Data Warehousing**: AWS (Athena, SageMaker, S3, Glue), Data Warehousing [cite: 22, 32, 34, 42, 55]
-- [cite_start]📊 **Business Intelligence & Visualization**: Tableau, Power BI [cite: 34, 49, 54, 72]
-- [cite_start]🛠️ **Tools & Technologies**: ETL Processes, MS Access, Excel [cite: 41, 48]
+- 💾 **Top Skills**: Decisions Software, SharePoint, AWS SageMaker
+- 🐍 **Programming & Query Languages**: SQL, Python
+- ☁️ **Cloud & Data Warehousing**: AWS (Athena, SageMaker, S3, Glue), Data Warehousing
+- 📊 **Business Intelligence & Visualization**: Tableau, Power BI
+- 🛠️ **Tools & Technologies**: ETL Processes, MS Access, Excel
 - 🔄 **Version Control**: Git, GitHub
 - 💬 Ask me about Data Validation Processes, Automated Reporting Systems, Resource Utilization Analysis, Data Pipeline Optimization, Predictive Modeling, ETL Processes, KPI Monitoring, and Advanced Visualization Techniques using Tableau and Power BI
 
